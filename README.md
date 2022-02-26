@@ -13,7 +13,7 @@
 * Ability to restrict groups(AUTH_GROUPS)
 
 
-## If Any Doubts Ask In [Update Channel](https://t.me/LXRYOUTUBERYT), [Support Group](https://t.me/LXRBOTSGROUP)
+## If Any Doubts Ask In [Update Channel](https://t.me/muhammadniyaf, [Support Group](https://t.me/muhammadniyaf)
 
 ## Installation
 
